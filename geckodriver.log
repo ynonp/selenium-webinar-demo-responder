@@ -707,3 +707,292 @@ JavaScript warning: https://cp.responder.co.il/_Incapsula_Resource?SWJIYLWA=719d
 JavaScript warning: https://cp.responder.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1603510370, line 1: unreachable code after return statement
 JavaScript warning: https://cp.responder.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1603510370 line 1 > eval, line 1: unreachable code after return statement
 1547705943794	Marionette	INFO	Stopped listening on port 49402
+1547712634456	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/2f/2dpj_8nx7_s192rd39c_7x680000gn/T/rust_mozprofile.Oi8xgBha5bI5"
+1547712635065	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547712635066	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1547712637007	Marionette	INFO	Listening on port 50412
+1547712637085	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cp.responder.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=842319287, line 1: unreachable code after return statement
+JavaScript warning: https://cp.responder.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=842319287, line 1: unreachable code after return statement
+JavaScript warning: https://cp.responder.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=842319287 line 1 > eval, line 1: unreachable code after return statement
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 1617, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 736
+[Child 1616, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 736
+1547712726392	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/2f/2dpj_8nx7_s192rd39c_7x680000gn/T/rust_mozprofile.eG65i8vVwaxM"
+1547712727022	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547712727022	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1547712729137	Marionette	INFO	Listening on port 50462
+1547712729266	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cp.responder.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=478094241, line 1: unreachable code after return statement
+JavaScript warning: https://cp.responder.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=478094241, line 1: unreachable code after return statement
+JavaScript warning: https://cp.responder.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=478094241 line 1 > eval, line 1: unreachable code after return statement
+1547712730421	Marionette	INFO	Stopped listening on port 50462
+1547712752046	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/2f/2dpj_8nx7_s192rd39c_7x680000gn/T/rust_mozprofile.tCs4gWq8A4TX"
+1547712752720	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547712752720	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1547712754578	Marionette	INFO	Listening on port 50509
+1547712754673	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cp.responder.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1719776447, line 1: unreachable code after return statement
+JavaScript warning: https://cp.responder.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1719776447, line 1: unreachable code after return statement
+JavaScript warning: https://cp.responder.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1719776447 line 1 > eval, line 1: unreachable code after return statement
+1547712755818	Marionette	INFO	Stopped listening on port 50509
+1547712882637	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/2f/2dpj_8nx7_s192rd39c_7x680000gn/T/rust_mozprofile.5f5iDTbjlKXz"
+1547712883237	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547712883237	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1547712885219	Marionette	INFO	Listening on port 50896
+1547712885285	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cp.responder.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1956672902, line 1: unreachable code after return statement
+JavaScript warning: https://cp.responder.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1956672902, line 1: unreachable code after return statement
+JavaScript warning: https://cp.responder.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1956672902 line 1 > eval, line 1: unreachable code after return statement
+1547713207776	Marionette	INFO	Stopped listening on port 50896
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x160011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+1547713233205	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/2f/2dpj_8nx7_s192rd39c_7x680000gn/T/rust_mozprofile.ccZs1Xt6u364"
+1547713233952	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547713233952	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1547713236569	Marionette	INFO	Listening on port 52363
+1547713236657	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cp.responder.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=714993339, line 1: unreachable code after return statement
+JavaScript warning: https://cp.responder.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=714993339, line 1: unreachable code after return statement
+JavaScript warning: https://cp.responder.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=714993339 line 1 > eval, line 1: unreachable code after return statement
+1547713238653	Marionette	INFO	Stopped listening on port 52363
+1547713250575	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/2f/2dpj_8nx7_s192rd39c_7x680000gn/T/rust_mozprofile.ZjZE3C0nwmMO"
+1547713251405	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547713251406	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1547713254468	Marionette	INFO	Listening on port 52487
+1547713254579	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cp.responder.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=292468277, line 1: unreachable code after return statement
+JavaScript warning: https://cp.responder.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=292468277, line 1: unreachable code after return statement
+JavaScript warning: https://cp.responder.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=292468277 line 1 > eval, line 1: unreachable code after return statement
+1547713256469	Marionette	INFO	Stopped listening on port 52487
+1547713503158	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/2f/2dpj_8nx7_s192rd39c_7x680000gn/T/rust_mozprofile.2AwkJRK79JIw"
+1547713503750	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547713503750	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1547713505748	Marionette	INFO	Listening on port 53601
+1547713505794	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cp.responder.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=707086894, line 1: unreachable code after return statement
+JavaScript warning: https://cp.responder.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=707086894, line 1: unreachable code after return statement
+JavaScript warning: https://cp.responder.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=707086894 line 1 > eval, line 1: unreachable code after return statement
+1547713670667	Marionette	INFO	Stopped listening on port 53601
+1547713673949	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/2f/2dpj_8nx7_s192rd39c_7x680000gn/T/rust_mozprofile.Iv6Ua7rqBdNF"
+1547713674536	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547713674536	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1547713676573	Marionette	INFO	Listening on port 54343
+1547713676729	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cp.responder.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1377210159, line 1: unreachable code after return statement
+JavaScript warning: https://cp.responder.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1377210159, line 1: unreachable code after return statement
+JavaScript warning: https://cp.responder.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1377210159 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://cp.responder.co.il/js/autosave.js, line 13: unreachable code after return statement
+JavaScript warning: https://cp.responder.co.il/js/autosave.js, line 13: unreachable code after return statement
+1547714204417	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/2f/2dpj_8nx7_s192rd39c_7x680000gn/T/rust_mozprofile.JkD4jxMMdQbY"
+1547714205059	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547714205059	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1547714206972	Marionette	INFO	Listening on port 55012
+1547714207036	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cp.responder.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2115525819, line 1: unreachable code after return statement
+JavaScript warning: https://cp.responder.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2115525819, line 1: unreachable code after return statement
+JavaScript warning: https://cp.responder.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2115525819 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://cp.responder.co.il/js/autosave.js, line 13: unreachable code after return statement
+JavaScript warning: https://cp.responder.co.il/js/autosave.js, line 13: unreachable code after return statement
+1547714211186	Marionette	INFO	Stopped listening on port 55012
+1547714286324	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/2f/2dpj_8nx7_s192rd39c_7x680000gn/T/rust_mozprofile.oy4MBQspIqAa"
+1547714287057	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547714287058	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1547714289182	Marionette	INFO	Listening on port 55401
+1547714289268	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cp.responder.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1188721464, line 1: unreachable code after return statement
+JavaScript warning: https://cp.responder.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1188721464, line 1: unreachable code after return statement
+JavaScript warning: https://cp.responder.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1188721464 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://cp.responder.co.il/js/autosave.js, line 13: unreachable code after return statement
+JavaScript warning: https://cp.responder.co.il/js/autosave.js, line 13: unreachable code after return statement
+1547714293416	Marionette	INFO	Stopped listening on port 55401
+1547714352891	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/2f/2dpj_8nx7_s192rd39c_7x680000gn/T/rust_mozprofile.dk0bDjCuJare"
+1547714353565	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547714353566	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1547714356006	Marionette	INFO	Listening on port 55724
+1547714356108	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cp.responder.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1401849691, line 1: unreachable code after return statement
+JavaScript warning: https://cp.responder.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1401849691, line 1: unreachable code after return statement
+JavaScript warning: https://cp.responder.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1401849691 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://cp.responder.co.il/js/autosave.js, line 13: unreachable code after return statement
+JavaScript warning: https://cp.responder.co.il/js/autosave.js, line 13: unreachable code after return statement
+1547714383184	Marionette	INFO	Stopped listening on port 55724
+1547714421246	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/2f/2dpj_8nx7_s192rd39c_7x680000gn/T/rust_mozprofile.eFAfDnU58LFz"
+1547714421958	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547714421958	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1547714424529	Marionette	INFO	Listening on port 56071
+1547714424591	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cp.responder.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1304363858, line 1: unreachable code after return statement
+JavaScript warning: https://cp.responder.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1304363858, line 1: unreachable code after return statement
+JavaScript warning: https://cp.responder.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1304363858 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://cp.responder.co.il/js/autosave.js, line 13: unreachable code after return statement
+JavaScript warning: https://cp.responder.co.il/js/autosave.js, line 13: unreachable code after return statement
+1547714428177	Marionette	INFO	Stopped listening on port 56071
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1547714449655	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/2f/2dpj_8nx7_s192rd39c_7x680000gn/T/rust_mozprofile.SjEppMs8oQsI"
+1547714450339	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547714450339	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1547714452654	Marionette	INFO	Listening on port 56244
+1547714452790	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cp.responder.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1060833993, line 1: unreachable code after return statement
+JavaScript warning: https://cp.responder.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1060833993, line 1: unreachable code after return statement
+JavaScript warning: https://cp.responder.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1060833993 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://cp.responder.co.il/js/autosave.js, line 13: unreachable code after return statement
+JavaScript warning: https://cp.responder.co.il/js/autosave.js, line 13: unreachable code after return statement
+1547714463795	Marionette	INFO	Stopped listening on port 56244
+1547714481257	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/2f/2dpj_8nx7_s192rd39c_7x680000gn/T/rust_mozprofile.lgNLnb5kzNOw"
+1547714481961	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547714481961	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1547714484173	Marionette	INFO	Listening on port 56436
+1547714484231	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cp.responder.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=74440403, line 1: unreachable code after return statement
+JavaScript warning: https://cp.responder.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=74440403, line 1: unreachable code after return statement
+JavaScript warning: https://cp.responder.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=74440403 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://cp.responder.co.il/js/autosave.js, line 13: unreachable code after return statement
+JavaScript warning: https://cp.responder.co.il/js/autosave.js, line 13: unreachable code after return statement
+1547714487890	Marionette	INFO	Stopped listening on port 56436
+1547714510994	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/2f/2dpj_8nx7_s192rd39c_7x680000gn/T/rust_mozprofile.aNvvZKwpzWFV"
+1547714511756	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547714511756	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1547714514247	Marionette	INFO	Listening on port 56611
+1547714514314	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cp.responder.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=133949280, line 1: unreachable code after return statement
+JavaScript warning: https://cp.responder.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=133949280, line 1: unreachable code after return statement
+JavaScript warning: https://cp.responder.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=133949280 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://cp.responder.co.il/js/autosave.js, line 13: unreachable code after return statement
+JavaScript warning: https://cp.responder.co.il/js/autosave.js, line 13: unreachable code after return statement
+1547714523826	Marionette	INFO	Stopped listening on port 56611
+1547714529514	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/2f/2dpj_8nx7_s192rd39c_7x680000gn/T/rust_mozprofile.szy9WmZBTT2m"
+1547714530193	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547714530194	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1547714532397	Marionette	INFO	Listening on port 56750
+1547714532477	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cp.responder.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1749743996, line 1: unreachable code after return statement
+JavaScript warning: https://cp.responder.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1749743996, line 1: unreachable code after return statement
+JavaScript warning: https://cp.responder.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1749743996 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://cp.responder.co.il/js/autosave.js, line 13: unreachable code after return statement
+JavaScript warning: https://cp.responder.co.il/js/autosave.js, line 13: unreachable code after return statement
+1547714536856	Marionette	INFO	Stopped listening on port 56750
+1547714606211	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/2f/2dpj_8nx7_s192rd39c_7x680000gn/T/rust_mozprofile.d090ay46UANL"
+1547714606916	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547714606916	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1547714608855	Marionette	INFO	Listening on port 57050
+1547714608960	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cp.responder.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=751729361, line 1: unreachable code after return statement
+JavaScript warning: https://cp.responder.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=751729361, line 1: unreachable code after return statement
+JavaScript warning: https://cp.responder.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=751729361 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://cp.responder.co.il/js/autosave.js, line 13: unreachable code after return statement
+JavaScript warning: https://cp.responder.co.il/js/autosave.js, line 13: unreachable code after return statement
+1547714613617	Marionette	INFO	Stopped listening on port 57050
+1547714919616	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/2f/2dpj_8nx7_s192rd39c_7x680000gn/T/rust_mozprofile.138hriNmUGMT"
+1547714920221	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547714920221	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1547714922168	Marionette	INFO	Listening on port 57392
+1547714922235	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cp.responder.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=317492616, line 1: unreachable code after return statement
+JavaScript warning: https://cp.responder.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=317492616, line 1: unreachable code after return statement
+JavaScript warning: https://cp.responder.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=317492616 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://cp.responder.co.il/js/autosave.js, line 13: unreachable code after return statement
+JavaScript warning: https://cp.responder.co.il/js/autosave.js, line 13: unreachable code after return statement
+JavaScript warning: https://cp.responder.co.il/js/autosave.js, line 13: unreachable code after return statement
+JavaScript warning: https://cp.responder.co.il/js/autosave.js, line 13: unreachable code after return statement
+1547714956214	Marionette	INFO	Stopped listening on port 57392
+1547714958326	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/2f/2dpj_8nx7_s192rd39c_7x680000gn/T/rust_mozprofile.xHSZFV3dRDWn"
+1547714959049	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547714959059	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1547714960893	Marionette	INFO	Listening on port 57614
+1547714960997	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cp.responder.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=94280070, line 1: unreachable code after return statement
+JavaScript warning: https://cp.responder.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=94280070, line 1: unreachable code after return statement
+JavaScript warning: https://cp.responder.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=94280070 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://cp.responder.co.il/js/autosave.js, line 13: unreachable code after return statement
+JavaScript warning: https://cp.responder.co.il/js/autosave.js, line 13: unreachable code after return statement
+JavaScript warning: https://cp.responder.co.il/js/autosave.js, line 13: unreachable code after return statement
+JavaScript warning: https://cp.responder.co.il/js/autosave.js, line 13: unreachable code after return statement
+1547715007675	Marionette	INFO	Stopped listening on port 57614
+1547715011090	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/2f/2dpj_8nx7_s192rd39c_7x680000gn/T/rust_mozprofile.vBVCxtRlSeY9"
+1547715011675	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547715011676	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1547715013679	Marionette	INFO	Listening on port 57899
+1547715013738	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cp.responder.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1739066473, line 1: unreachable code after return statement
+JavaScript warning: https://cp.responder.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1739066473, line 1: unreachable code after return statement
+JavaScript warning: https://cp.responder.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1739066473 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://cp.responder.co.il/js/autosave.js, line 13: unreachable code after return statement
+JavaScript warning: https://cp.responder.co.il/js/autosave.js, line 13: unreachable code after return statement
+JavaScript warning: https://cp.responder.co.il/js/autosave.js, line 13: unreachable code after return statement
+JavaScript warning: https://cp.responder.co.il/js/autosave.js, line 13: unreachable code after return statement
+1547715035024	Marionette	INFO	Stopped listening on port 57899
+1547715037930	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/2f/2dpj_8nx7_s192rd39c_7x680000gn/T/rust_mozprofile.yKGfH37790xI"
+1547715038537	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547715038538	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1547715040382	Marionette	INFO	Listening on port 58075
+1547715040482	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cp.responder.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1262015262, line 1: unreachable code after return statement
+JavaScript warning: https://cp.responder.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1262015262, line 1: unreachable code after return statement
+JavaScript warning: https://cp.responder.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1262015262 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://cp.responder.co.il/js/autosave.js, line 13: unreachable code after return statement
+JavaScript warning: https://cp.responder.co.il/js/autosave.js, line 13: unreachable code after return statement
+JavaScript warning: https://cp.responder.co.il/js/autosave.js, line 13: unreachable code after return statement
+JavaScript warning: https://cp.responder.co.il/js/autosave.js, line 13: unreachable code after return statement
+JavaScript error: chrome://marionette/content/error.js, line 178: Error: Timed out after 30000 ms
+1547715146478	Marionette	INFO	Stopped listening on port 58075
+1547715149519	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/2f/2dpj_8nx7_s192rd39c_7x680000gn/T/rust_mozprofile.CmfSdNeyDB1p"
+1547715150125	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547715150125	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1547715152061	Marionette	INFO	Listening on port 58591
+1547715152137	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cp.responder.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=526146983, line 1: unreachable code after return statement
+JavaScript warning: https://cp.responder.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=526146983, line 1: unreachable code after return statement
+JavaScript warning: https://cp.responder.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=526146983 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://cp.responder.co.il/js/autosave.js, line 13: unreachable code after return statement
+JavaScript warning: https://cp.responder.co.il/js/autosave.js, line 13: unreachable code after return statement
+JavaScript warning: https://cp.responder.co.il/js/autosave.js, line 13: unreachable code after return statement
+JavaScript warning: https://cp.responder.co.il/js/autosave.js, line 13: unreachable code after return statement
+1547715279034	Marionette	INFO	Stopped listening on port 58591
+1547715289985	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/2f/2dpj_8nx7_s192rd39c_7x680000gn/T/rust_mozprofile.oJ7I1h3DybNu"
+1547715290668	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547715290668	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1547715293157	Marionette	INFO	Listening on port 59222
+1547715293230	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cp.responder.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2004554951, line 1: unreachable code after return statement
+JavaScript warning: https://cp.responder.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2004554951, line 1: unreachable code after return statement
+JavaScript warning: https://cp.responder.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2004554951 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://cp.responder.co.il/js/autosave.js, line 13: unreachable code after return statement
+JavaScript warning: https://cp.responder.co.il/js/autosave.js, line 13: unreachable code after return statement
+JavaScript warning: https://cp.responder.co.il/js/autosave.js, line 13: unreachable code after return statement
+JavaScript warning: https://cp.responder.co.il/js/autosave.js, line 13: unreachable code after return statement
+1547715298598	Marionette	INFO	Stopped listening on port 59222
