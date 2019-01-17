@@ -3,13 +3,13 @@ python + selenium
 ## Agenda
 
 1. Homepage
-  v * HTTPS is required
-  v * Tab functionality works
+  * HTTPS is required
+  * Tab functionality works
 
 2. Account
-  v * Login works
-  v * Logout works
-  v * Change email requires password
+  * Login works
+  * Logout works
+  * Change email requires password
   * Can change email
 
 ## Cheat Sheet
