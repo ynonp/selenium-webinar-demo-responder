@@ -3,27 +3,14 @@ python + selenium
 ## Agenda
 
 1. Homepage
-  * HTTPS is required
-  * Tab functionality works
-  * Refresh captcha changes the image
-  * Trial signup link appears and works
+  v * HTTPS is required
+  v * Tab functionality works
 
 2. Account
-  * Login works
-  * Logout works
-  * Change email requires password
-  * Change password requires password
+  v * Login works
+  v * Logout works
+  v * Change email requires password
   * Can change email
-  * Can change password
-
-3. Email Editor
-  * Can change message type
-  * Can open page editor
-  * Can set values in fields and save
-  * Warning is shown if exiting before all fields are set
-
-
-
 
 ## Cheat Sheet
 
@@ -33,6 +20,7 @@ python + selenium
 import unittest
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
+from selenium.common.exceptions import NoSuchElementException
 
 class TestHomepage(unittest.TestCase):
     def setUp(self):
@@ -56,4 +44,45 @@ Visit a page:
 self.driver.get('https://www.tocode.co.il')
 ```
 
+Find element and click it
 
+```
+el = self.driver.find_element_by_css_selector('#forgot')
+el.click()
+```
+
+Get current url
+
+```
+self.driver.current_url
+```
+
+Get current page title
+
+```
+self.driver.title
+```
+
+Set implicit wait
+
+```
+driver.implicitly_wait(10)
+```
+
+### Other Python Tips
+
+Put a breakpoint
+
+```
+import pdb
+pdb.set_trace()
+```
+
+### Useful links
+
+Unit test reference:
+
+https://docs.python.org/3/library/unittest.html
+
+Python Selenium Docs
+https://selenium-python.readthedocs.io/index.html
